@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(253, 214, 235);
+    padding: 20px;
+    color: rgb(230, 129, 196);
+}
+
+h1{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+
+h3{
+    color: rgb(230, 129, 196);
+    text-align: center;
+}
+
+#flor{
+    color: #cf698b;
+}
+
+hr{
+    border-top: 5px dotted;
+    border-bottom: #cf698b;
+    width: 75%;
+}
+
